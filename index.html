@@ -1,3 +1,4 @@
+<!-- 在一个 Vite 项目中，index.html 在项目最外层而不是在 public 文件夹里。这是有意而为之的：在开发期间 Vite 是一个服务器，而 index.html 是该 Vite 项目的入口点。 -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,6 +9,7 @@
   </head>
   <body>
     <div id="root"></div>
+    <!-- <script type="module" src="..."> -->
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
