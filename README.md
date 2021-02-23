@@ -81,3 +81,5 @@ In a project where Vite is installed, you can use the vite binary in your npm sc
 [Vite 原理浅析](https://juejin.cn/post/6844904146915573773#heading-13)
 
 [vite 尝鲜](https://juejin.cn/post/6919104746867556365#heading-2)
+
+[彻底弄懂强缓存与协商缓存](https://www.jianshu.com/p/9c95db596df5)
